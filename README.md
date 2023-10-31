@@ -1,1 +1,1 @@
-# vertica
+# verti
