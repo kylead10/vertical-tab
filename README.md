@@ -1,1 +1,1 @@
-# vertical-
+# vertica
